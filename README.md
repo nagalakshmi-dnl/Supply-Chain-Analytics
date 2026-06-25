@@ -1,6 +1,6 @@
 # 🚚 Supply Chain Analytics Dashboard – FY 2026
 
-![Dashboard](Screenshots/Dashboard.png)
+<img width="1460" height="818" alt="Screenshot_Dashboard" src="https://github.com/user-attachments/assets/1fe7b481-3ee5-459e-9156-37b1ff2808df" />
 
 ## 📌 Project Overview
 
