@@ -1,16 +1,15 @@
 # 🚚 Supply Chain Analytics Dashboard – FY 2026
 
-<img width="1460" height="818" alt="Screenshot_Dashboard" src="https://github.com/user-attachments/assets/1fe7b481-3ee5-459e-9156-37b1ff2808df" />
+![GitHub Repo stars](https://img.shields.io/github/stars/nagalakshmi-dnl/Supply-Chain-Analytics?style=for-the-badge)
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![GitHub forks](https://img.shields.io/github/forks/nagalakshmi-dnl/Supply-Chain-Analytics?style=for-the-badge)
 
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![GitHub license](https://img.shields.io/github/license/nagalakshmi-dnl/Supply-Chain-Analytics?style=for-the-badge)
 
-![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/nagalakshmi-dnl/Supply-Chain-Analytics?style=for-the-badge)
 
-![Status](https://img.shields.io/badge/Project-Completed-success)
+<img src="Screenshots/Dashboard.png" width="1100">
 
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📌 Project Overview
 
@@ -125,13 +124,11 @@ Key SQL queries performed include:
 
 ### Main Dashboard
 
-<img width="1460" height="818" alt="Capture" src="https://github.com/user-attachments/assets/5d1fd550-c60f-486c-9437-c470faf33891" />
-
+<img src="Screenshots/Dashboard.png" width="1000">
 
 ### Tooltip Page
 
-<img width="854" height="642" alt="Tooltip" src="https://github.com/user-attachments/assets/875e0d26-9de1-42ef-bcb2-9e5e0e9f4bc4" />
-
+<img src="Screenshots/Tooltip.png" width="800">
 
 ## 📁 Repository Structure
 
@@ -139,21 +136,31 @@ Key SQL queries performed include:
 Supply-Chain-Analytics
 │
 ├── Dataset
-│   └── supply_chain_final.csv
+│   └── supply_chain_final_data.csv
 │
 ├── SQL
-│   └── supply_chain_queries.sql
+│   └── SupplyChain_SQL_Queries.sql
 │
-├── Power BI
-│   └── Supply Chain Dashboard.pbix
+├── PowerBI
+│   └── SupplyChain_Dashboard.pbix
 │
 ├── Screenshots
 │   ├── Dashboard.png
 │   └── Tooltip.png
 │
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
+# 📁 Project Files
+
+| File | Description |
+|------|-------------|
+| [Dataset](Dataset/supply_chain_final_data.csv) | Cleaned Supply Chain Dataset |
+| [SQL Script](SQL/SupplyChain_SQL_Queries.sql) | SQL Queries & Business Analysis |
+| [Power BI Dashboard](PowerBI/SupplyChain_Dashboard.pbix) | Interactive Dashboard |
+| [Dashboard Screenshot](Screenshots/Dashboard.png) | Main Dashboard |
+| [Tooltip Screenshot](Screenshots/Tooltip.png) | Tooltip Page |
 ---
 
 ## 🚀 Skills Demonstrated
@@ -168,6 +175,14 @@ Supply-Chain-Analytics
 - Supply Chain Analytics
 
 ---
+
+## 🔗 Quick Access
+
+📊 [Power BI Dashboard](PowerBI/SupplyChain_Dashboard.pbix)
+
+🗄 [SQL Queries](SQL/SupplyChain_SQL_Queries.sql)
+
+📂 [Dataset](Dataset/supply_chain_final_data.csv)
 
 ## 👩‍💻 Author
 
