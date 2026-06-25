@@ -1,4 +1,6 @@
-# 📦 Supply Chain Analytics Dashboard – FY 2026
+# 🚚 Supply Chain Analytics Dashboard – FY 2026
+
+![Dashboard](Screenshots/Dashboard.png)
 
 ## 📌 Project Overview
 
