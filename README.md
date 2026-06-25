@@ -161,6 +161,17 @@ Supply-Chain-Analytics
 | [Power BI Dashboard](PowerBI/SupplyChain_Dashboard.pbix) | Interactive Dashboard |
 | [Dashboard Screenshot](Screenshots/Dashboard.png) | Main Dashboard |
 | [Tooltip Screenshot](Screenshots/Tooltip.png) | Tooltip Page |
+
+---
+
+## ⬇️ Download Project Files
+
+| Resource | Download |
+|----------|----------|
+| 📂 Dataset | [Download CSV](Dataset/supply_chain_final_data.csv) |
+| 🗄 SQL Script | [Download SQL](SQL/SupplyChain_SQL_Queries.sql) |
+| 📊 Power BI Dashboard | [Download PBIX](PowerBI/SupplyChain_Dashboard.pbix) |
+
 ---
 
 ## 🚀 Skills Demonstrated
