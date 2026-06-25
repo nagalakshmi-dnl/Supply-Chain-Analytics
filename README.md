@@ -2,6 +2,16 @@
 
 <img width="1460" height="818" alt="Screenshot_Dashboard" src="https://github.com/user-attachments/assets/1fe7b481-3ee5-459e-9156-37b1ff2808df" />
 
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+
+![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green)
+
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 ## 📌 Project Overview
 
 This project analyzes global supply chain operations using SQL and Power BI to uncover business insights related to sales, profitability, delivery performance, customer segments, shipping methods, and regional performance.
